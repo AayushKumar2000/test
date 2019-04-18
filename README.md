@@ -1,5 +1,5 @@
 # This is the personal project
-The owner the this repository is @Aayush Kumar
+The owner the this repository is Aayush Kumar
 
 This project is written in **C Language**.
 
