@@ -5,7 +5,7 @@ This project is written in **C Language**.
 
 ---
 
-##REMEMBER
+## REMEMBER
 - you should never push to the `MASTER` branch.
 - you will be given a seperate branch to work on.
 - `test` your code before creating a pull request.
